@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.total{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    border: solid 2px #3e3f42;
+    width: 100%;
+    color: #3e3f42;
+}
+
+header{
+    height: 150px;
+}
+
+.images{
+    padding-top: 100px;
+    height: 500px;
+}
+
+.click{
+    margin-top: 20px;    
+}
+
+#clickGauche{
+    margin-right: 120px;
+}
+
+#clickDroit{
+    margin-left: 120px;
+}
+
+.logo, .carte{
+    margin-right: 50px;
+    margin-left: 50px;
+    height: 150px;
+    width: auto;
+}
+
+h1{
+    font-size: 50px;
+}
+
+footer{
+    background-color: #686868;
+    color: #c3c3c2;
+    min-height: 100px;
+}
+
+#nom{
+    margin-right: 10px;
+    text-align: right;
+    color: #dad9d7;
+}
